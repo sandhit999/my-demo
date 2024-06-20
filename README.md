@@ -1,3 +1,3 @@
 # my-demo
 <br/>
-author : sandhit pan
+author - sandhit pan
